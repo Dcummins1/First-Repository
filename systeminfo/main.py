@@ -8,7 +8,7 @@ import platform
 def main():
     print(platform.platform())
     return
-#gameon
+#gameon 123
 
 
 if __name__ == '__main__':
