@@ -8,6 +8,7 @@ import platform
 def main():
     print(platform.platform())
     return
+#gameon
 
 
 if __name__ == '__main__':
